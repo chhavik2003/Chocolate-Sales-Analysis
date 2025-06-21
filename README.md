@@ -1,6 +1,6 @@
 # 🍫 Chocolate Sales Dashboard - Tableau Project
 
-Welcome to my first Tableau project! This dashboard provides a visual analysis of chocolate sales across various regions, helping uncover insights and drive data-informed decisions.
+Welcome to my Tableau project! This dashboard provides a visual analysis of chocolate sales across various regions, helping uncover insights and drive data-informed decisions.
 
 ## 📊 Project Overview
 
