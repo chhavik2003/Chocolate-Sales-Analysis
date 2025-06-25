@@ -1,4 +1,4 @@
-# 🍫 Chocolate Sales Dashboard - Tableau Project
+# 🍫 Sweet Trends (Tableau Project)
 
 Welcome to my Tableau project! This dashboard provides a visual analysis of chocolate sales across various regions, helping uncover insights and drive data-informed decisions.
 
